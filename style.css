@@ -1,0 +1,65 @@
+body{
+	
+	background-image: url(6.jpg);
+	background-size: cover;
+}
+
+.atas{
+		text-align: center;
+		color: brown;
+	}
+
+
+.top{
+		text-align;
+		margin: auto;
+		width: 740px;
+		height: 360px;
+		
+	}
+
+table,tr,td{
+		background-color: white;
+		font-family: time new roman;
+		font-size: 16px;
+		color: navy;
+		border: 1px solid slategray;
+		padding: 5px;
+		border-collapse: collapse;
+	}
+
+.tempat{
+		position: absolute;
+		margin-left: auto;
+		margin-right: auto;
+		margin-bottom: auto;
+		margin-top: auto;
+		left: 70px;
+		right: 0;
+		top: 160px;
+		bottom: 0;
+	}
+
+.warna{
+		color: indianred;
+	}
+
+.masuk{
+		text-align: center;
+		margin: 10px auto;
+		padding: 20px;
+		width: 800px;
+		border: 9px groove pink;
+		background: bisque repeat top left;
+	}
+
+	.footer{
+    	text-align: center;
+    	width: 100%;
+    	padding-left: 10px;
+    	line-height: 50px;
+    	background: gray;
+    	color: white;
+}
+
+	
